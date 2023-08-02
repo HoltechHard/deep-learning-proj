@@ -1,4 +1,4 @@
-# HSE_Intoduction to Deep Learning
+# Deep Learning Projects
 
 ### 1 - Coursera HSE Course - Introduction to Deep Learning
 
